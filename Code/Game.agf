@@ -995,8 +995,8 @@
             <Height>253</Height>
             <Locked>False</Locked>
             <Width>426</Width>
-            <Left>142</Left>
-            <Top>95</Top>
+            <Left>25</Left>
+            <Top>94</Top>
             <ZOrder>3</ZOrder>
             <ID>3</ID>
             <Name>Inv_window</Name>
@@ -1016,8 +1016,8 @@
             <Height>21</Height>
             <Locked>False</Locked>
             <Width>32</Width>
-            <Left>56</Left>
-            <Top>125</Top>
+            <Left>106</Left>
+            <Top>32</Top>
             <ZOrder>4</ZOrder>
             <ID>4</ID>
             <Name>btnleft</Name>
@@ -1037,8 +1037,8 @@
             <Height>18</Height>
             <Locked>False</Locked>
             <Width>26</Width>
-            <Left>90</Left>
-            <Top>125</Top>
+            <Left>154</Left>
+            <Top>32</Top>
             <ZOrder>5</ZOrder>
             <ID>5</ID>
             <Name>btnright</Name>
@@ -2005,9 +2005,9 @@
               <Sprite Slot="2059" Width="16" Height="16" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="2060" Width="16" Height="16" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
               <Sprite Slot="2061" Width="16" Height="17" ColorDepth="8" Resolution="LowRes" AlphaChannel="False" />
-              <Sprite Slot="6" Width="30" Height="18" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
+              <Sprite Slot="6" Width="30" Height="19" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Vas\My Documents\Pictures\wisp-graphic\goleft.PNG</FileName>
+                  <FileName>C:\Users\Vaso\Documents\GitHub\wisp-game\Graphics\HQ-Graphics\Interface\left.png</FileName>
                 </Source>
               </Sprite>
             </Sprites>
@@ -2015,29 +2015,29 @@
           <SpriteFolder Name="Inventory-Real">
             <SubFolders />
             <Sprites>
-              <Sprite Slot="7" Width="68" Height="72" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
+              <Sprite Slot="7" Width="31" Height="60" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Vas\My Documents\Pictures\wisp-graphic\Inventory-Things\Urn-Real.PNG</FileName>
+                  <FileName>C:\Users\Vaso\Documents\GitHub\wisp-game\Graphics\Inventory-Things\Urn-Real-HQ.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="12" Width="44" Height="44" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
+              <Sprite Slot="12" Width="75" Height="50" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Vas\My Documents\Pictures\wisp-graphic\Inventory-Things\TransporterControlRod.PNG</FileName>
+                  <FileName>C:\Users\Vaso\Documents\GitHub\wisp-game\Graphics\Inventory-Things\TransporterControlRod-HQ.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="15" Width="61" Height="44" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
+              <Sprite Slot="15" Width="75" Height="50" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Vas\My Documents\Pictures\wisp-graphic\Inventory-Things\keycard.PNG</FileName>
+                  <FileName>C:\Users\Vaso\Documents\GitHub\wisp-game\Graphics\Inventory-Things\card.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="16" Width="55" Height="46" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
+              <Sprite Slot="16" Width="64" Height="45" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Vas\My Documents\Pictures\wisp-graphic\Inventory-Things\Ashes.PNG</FileName>
+                  <FileName>C:\Users\Vaso\Documents\GitHub\wisp-game\Graphics\Inventory-Things\ashes-real.png</FileName>
                 </Source>
               </Sprite>
-              <Sprite Slot="5" Width="55" Height="46" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
+              <Sprite Slot="5" Width="75" Height="50" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
                 <Source>
-                  <FileName>C:\Documents and Settings\Vas\My Documents\Pictures\wisp-graphic\Inventory-Things\log.PNG</FileName>
+                  <FileName>C:\Users\Vaso\Documents\GitHub\wisp-game\Graphics\Inventory-Things\log-HQ.png</FileName>
                 </Source>
               </Sprite>
             </Sprites>
@@ -2065,9 +2065,9 @@
               <FileName>C:\Documents and Settings\Vas\My Documents\Pictures\wisp-graphic\HQ-Graphics\Interface\VerbCoinUse.png</FileName>
             </Source>
           </Sprite>
-          <Sprite Slot="8" Width="640" Height="480" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
+          <Sprite Slot="8" Width="640" Height="400" ColorDepth="32" Resolution="HighRes" AlphaChannel="False">
             <Source>
-              <FileName>D:\AGS\AGS_3.0\files\Inventory.png</FileName>
+              <FileName>C:\Users\Vaso\Documents\GitHub\wisp-game\Graphics\HQ-Graphics\Interface\SaveLoad.png</FileName>
             </Source>
           </Sprite>
           <Sprite Slot="13" Width="27" Height="23" ColorDepth="32" Resolution="HighRes" AlphaChannel="True">
